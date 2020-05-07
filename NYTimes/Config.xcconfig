@@ -1,0 +1,13 @@
+//
+//  Config.xcconfig
+//  NYTimes
+//
+//  Created by Mohamed Ramadan on 4/27/20.
+//  Copyright © 2020 Mohamed Ramadan. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+BaseUrl=api.nytimes.com/svc/mostpopular/v2/viewed/
+ApiKey=.json?api-key=XxCxgOxWhL6WVwdaJ5zNSYpYunISHuOB
